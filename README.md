@@ -1,6 +1,6 @@
 # Face_Mask_Detection
 
-This project is implemented in Python using Keras, Tensorflow and OpenCV. I convolutional neural network for training.
+This project is implemented in Python using Keras, Tensorflow and OpenCV. I used convolutional neural network for training.
 Idea of the projects popped during the times of covid -19 where wearining mask is very important for the safety of everyone.
 I thaught this particular project to be very usefull as this project can be implemented in usecases like
 - In it park where people are in a huge population we can integrate this model with an iot device at the gate of every companies to see
